@@ -1,0 +1,50 @@
+body {
+    background: linear-gradient(to bottom right, blanchedalmond, beige);
+    font-family: 'Nunito', sans-serif;
+    font-size: 17px;
+    border: 12px solid cornsilk;
+}
+
+#map {
+    height: 100%;
+}
+
+#gmap_canvas {
+    height: 250px;
+    width: 250px;
+}
+
+.jumbotron {
+    background: bisque;
+    max-width: 750px;
+    border: 9px solid wheat;
+}
+
+.center-div {
+    margin: 0 auto;
+    width: 100%
+}
+
+.form-control {
+    font-size: 20px;
+}
+
+.wrapper {
+    margin: 0 auto;
+}
+
+.wrapper .glyphicon {
+    position: absolute;
+    padding-right: 49px;
+    padding-top: 3px;
+}
+
+.wrapper2 {
+    margin: 0 auto;
+}
+
+.wrapper2 .glyphicon {
+    position: absolute;
+    padding-right: 250px;
+    padding-top: 3px;
+}
